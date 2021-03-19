@@ -23,4 +23,6 @@ const hamayunWaheed = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamayun-cpu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamayun-cpu)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>You can check out my portfolio <a href="https://hamayun-cpu.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
