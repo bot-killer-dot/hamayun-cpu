@@ -19,5 +19,6 @@ const hamayunWaheed = {
   from all over the world']
 }
 ```
+[![Hamayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamayun-cpu)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>You can check out my portfolio <a href="https://hamayun-cpu.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
