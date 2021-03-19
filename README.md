@@ -13,8 +13,6 @@ const hamayunWaheed = {
   pronouns: ["he", "his"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Bulma],
-  askMeAbout: [Guitarist],
-  challenge: "I am honing my React skills and picking up Vue",
   funFacts: ['I have 1+ years of remote work experience with devs 
   from all over the world']
 }
