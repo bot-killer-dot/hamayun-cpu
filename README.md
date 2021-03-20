@@ -17,7 +17,7 @@ const hamayunWaheed = {
   from all over the world']
 }
 ```
-<img align="left" alt="sanadwj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamayun-cpu&show_icons=true&theme=dark" />
+<img align="left" alt="hamayun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamayun-cpu&show_icons=true&theme=dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamayun-cpu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
