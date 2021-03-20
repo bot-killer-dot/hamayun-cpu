@@ -18,7 +18,6 @@ const hamayunWaheed = {
 }
 ```
 <img align="left" alt="hamayun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamayun-cpu&show_icons=true&theme=dark" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamayun-cpu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=hamayun-cpu&layout=compact&theme=dark" />
 
 <p>You can check out my portfolio <a href="https://hamayun-cpu.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
