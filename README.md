@@ -20,4 +20,4 @@ const hamayunWaheed = {
 <img align="left" alt="hamayun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamayun-cpu&show_icons=true&theme=dark" />
 <img align="right" alt="hamayun's Languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamayun-cpu&layout=compact&theme=dark" />
 
-<p>You can check out my portfolio <a href="https://hamayun-cpu.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p align="bottom">You can check out my portfolio <a href="https://hamayun-cpu.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
