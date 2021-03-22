@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/hamayun-waheed/)
 [![Twitter Badge](https://img.shields.io/badge/-@hamayun_waheed_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/hamayun_waheed)
-Gmail: hamayun.waheed1999@gmail.com
+###Gmail: hamayun.waheed1999@gmail.com
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
