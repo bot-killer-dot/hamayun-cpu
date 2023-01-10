@@ -13,9 +13,9 @@
 const hamayunWaheed = {
   lookingFor: "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [Angular, Ruby on Rails, JavaScript, TypeScript, Ruby, C++, HTML5, CSS3, Semantic UI, Bootstrap, 
+  code: [Angular, Laravel ,Ruby on Rails, React, JavaScript, TypeScript, Php, Ruby, C++, HTML5, CSS3, Semantic UI, Bootstrap, 
   Bulma],
-  funFacts: ['I have 1+ years of remote work experience with devs 
+  funFacts: ['I have 2+ years of remote work experience with devs 
   from all over the world']
 }
 ```
