@@ -5,7 +5,7 @@
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const hamayunWaheed = {
+const ameerFarooq = {
   lookingFor: "Frontend developer",
   pronouns: ["he", "his"],
   code: [Angular, React, Next.js, JavaScript, TypeScript, Jquery, HTML5, CSS3, Semantic UI, Bootstrap, 
@@ -13,5 +13,3 @@ const hamayunWaheed = {
   funFacts: ['I have 5+ years work experience']
 }
 ```
-<img align="left" alt="hamayun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamayun-cpu&show_icons=true&theme=dark" />
-<img alt="hamayun's Languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamayun-cpu&layout=compact&theme=dark" />
