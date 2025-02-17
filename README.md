@@ -6,10 +6,9 @@
 
 ```javascript
 const ameerFarooq = {
-  lookingFor: "Frontend developer",
   pronouns: ["he", "his"],
   code: [Angular, React, Next.js, JavaScript, TypeScript, Jquery, HTML5, CSS3, Semantic UI, Bootstrap, 
   Bulma, Tailwind Css],
-  funFacts: ['I have 5+ years work experience']
+  funFacts: ['I have 5+ years of work experience.']
 }
 ```
